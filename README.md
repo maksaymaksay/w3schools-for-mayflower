@@ -11,7 +11,7 @@ To run the tests, make sure you have the following prerequisites:
 1. Clone the repository:
 
    ```shell
-   git clone <repository-url>
+   git clone https://github.com/maksaymaksay/w3schools-for-mayflower
    ```
 
 2. Change into the project directory:
